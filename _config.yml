@@ -8,9 +8,10 @@ logo:              "/img/logo.png"
 
 # Social Profiles
 
-github_username:   amanabt
-facebook_username: aman.iitk072
-linkedin_username: aman2official
+github_username:    amanabt
+facebook_username:  aman.iitk072
+linkedin_username:  aman2official
+goodreads_username: 81434158-aman
 
 # Build settings
 markdown:          kramdown
