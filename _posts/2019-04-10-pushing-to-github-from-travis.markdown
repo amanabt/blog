@@ -38,7 +38,7 @@ changes to a repository in GitHub.
 
 <br>
 
-<img src="{{"/img/pushing-to-github-from-Travis-CI/01-github-token-generator.jpg" | relative_url }}" alt="GitHub Token Generator" width="720">
+<img src="{{"/img/pushing-to-github-from-Travis-CI/01-github-token-generator.jpg" | relative_url }}" alt="GitHub Token Generator" style="max-width:100%;">
 
 <br>
 <br>
