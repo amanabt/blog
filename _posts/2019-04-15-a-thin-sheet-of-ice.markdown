@@ -4,6 +4,7 @@ comments: true
 title:  "A Thin Sheet of Ice"
 subtitle: "Poem"
 credits: "Photo by Riccardo Bresciani from Pexels"
+categories: [poetry]
 date:   2019-01-01 04:00:00 +0530
 background: '/img/posts/a-thin-sheet-of-ice.jpg'
 ---

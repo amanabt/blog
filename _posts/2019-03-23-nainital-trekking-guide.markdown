@@ -4,6 +4,7 @@ comments: true
 title:  "Nainital Trekking Guide"
 subtitle: "A detailed guide to plan one to two days trekking and sight-seeing in Nainital, U.K., India"
 credits: "Photo by Aman Abhishek Tiwari"
+categories: [travel]
 date:   2019-03-23 20:00:00 +0530
 background: '/img/nainital-2019-03/nainital-2019-03-x2.jpg'
 ---

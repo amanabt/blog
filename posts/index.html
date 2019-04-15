@@ -21,7 +21,13 @@ background: '/img/bithoor/20190227_175020.jpg'
     {% else %}
     {{ site.author }}
     {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}</p>
+    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+    <br>
+    Categories:
+    {% for category in post.categories %}
+      {{ category | capitalize }}
+    {% endfor %}
+  </p>
 </article>
 
 <hr>

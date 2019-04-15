@@ -4,6 +4,7 @@ comments: true
 title:  "We Travel Alone"
 subtitle: "Poem"
 credits: "Photo by Tom Swinnen from Pexels"
+categories: [poetry]
 date:   2019-01-01 04:00:00 +0530
 background: '/img/posts/we-travel-alone.jpg'
 ---
