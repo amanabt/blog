@@ -9,23 +9,53 @@
 
 <url>
   <loc>https://amanabt.github.io/blog/</loc>
-  <lastmod>2019-04-09T21:58:01+00:00</lastmod>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://amanabt.github.io/blog/contact</loc>
-  <lastmod>2019-04-09T21:58:01+00:00</lastmod>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/search</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://amanabt.github.io/blog/2019/04/09/pushing-to-github-from-travis.html</loc>
-  <lastmod>2019-04-09T21:58:02+00:00</lastmod>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://amanabt.github.io/blog/2019/03/23/nainital-trekking-guide.html</loc>
-  <lastmod>2019-04-09T21:58:02+00:00</lastmod>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/2018/12/31/we-travel-alone.html</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/2018/12/31/my-song.html</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/2018/12/31/a-thin-sheet-of-ice.html</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/2018/12/31/a-sunrise.html</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://amanabt.github.io/blog/2018/12/31/a-desert-dead-empty-and-vast.html</loc>
+  <lastmod>2019-04-14T23:36:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
