@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "Pushing to GitHub repo from Travis CI [WIP]"
 subtitle: "A guide to pushing changes to a GitHub repo from TravisCI"
+categories: [tech]
 date:   2019-04-10 01:28:00 +0530
 background: '/img/pushing-to-github-from-Travis-CI/02-backdrop.jpg'
 ---

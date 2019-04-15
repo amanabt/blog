@@ -21,6 +21,14 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+      - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 algolia:
   application_id: JOKM4G43ZF

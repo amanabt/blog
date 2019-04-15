@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "A Desert, Dead, Empty, and Vast"
 subtitle: "Poem"
+categories: [poetry]
 date:   2019-01-01 04:00:00 +0530
 background: '/img/posts/a-desert-dead-empty-and-vast.jpg'
 ---
