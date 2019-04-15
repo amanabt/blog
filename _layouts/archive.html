@@ -17,6 +17,9 @@ layout: default
           {% if page.description %}
             <span class="subheading">{{ page.description }}</span>
           {% endif %}
+          {% if page.credits %}
+              <span class="meta"> {{ page.credits }} </span>
+          {% endif %}
         </div>
       </div>
     </div>

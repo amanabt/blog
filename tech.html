@@ -1,7 +1,7 @@
 ---
 layout: archive
 title:  Tech Blogs
-background: '/img/bithoor/20190227_175020.jpg'
+background: '/img/bg-tech.jpg'
 ---
 
 <ul class="posts">
@@ -28,7 +28,9 @@ background: '/img/bithoor/20190227_175020.jpg'
             <br>
             Categories:
             {% for category in post.categories %}
-              {{ category | capitalize }}
+                <a href="{{ category | prepend: "/" | relative_url }}">
+                    {{ category | capitalize }}
+                </a>
             {% endfor %}
           </p>
         </article>

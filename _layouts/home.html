@@ -52,7 +52,9 @@ layout: default
             <br>
             Categories:
             {% for category in post.categories %}
-              {{ category | capitalize }}
+                <a href="{{ category | prepend: "/" | relative_url }}">
+                    {{ category | capitalize }}
+                </a>
             {% endfor %}
           </p>
         </article>
