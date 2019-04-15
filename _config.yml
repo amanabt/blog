@@ -20,7 +20,7 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
+  - jekyll-sitemap
 
 algolia:
   application_id: JOKM4G43ZF
