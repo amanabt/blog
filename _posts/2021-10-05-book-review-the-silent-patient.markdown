@@ -4,7 +4,7 @@ comments: true
 title:  "The Silent Patient by Alex Michaelides"
 subtitle: "Book Review and Summary"
 categories: [literature]
-date:   2021-09-05 00:00:00 +0530
+date:   2021-10-05 00:00:00 +0530
 background: '/img/posts/the-silent-patient.jpg'
 ---
 
