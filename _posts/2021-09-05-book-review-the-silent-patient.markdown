@@ -8,6 +8,8 @@ date:   2021-09-05 00:00:00 +0530
 background: '/img/posts/the-silent-patient.jpg'
 ---
 
+# Review
+
 The Silent patient is a psychological thriller and should I say what a thriller it is.
 Besides, this was the first psychological thriller novel that I have read in my life
 and it has been an amazing experience. It is approximately a three hundred page book
@@ -20,6 +22,9 @@ perspective but with events happening in two different timelines. The writer has
 successfully managed to not let the reader realize this until the very end. Overall,
 reading this book has been quite a new and thrilling experience for me and would
 recommend it to any adult who likes reading psychological thrillers.
+
+
+# Summary
 
 The book revolves around a talented painter Alicia who has been charged with murdering
 her husband Gabriel in cold blood by shooting him 5 times in his face. She does not try
