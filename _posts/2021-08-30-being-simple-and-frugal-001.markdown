@@ -4,7 +4,7 @@ comments: true
 title:  "Being Simple and Frugal"
 subtitle: "Intro and A Gist of My Spending and Budgeting Habits Till Now"
 categories: [lifestyle]
-date:   2019-04-10 01:28:00 +0530
+date:   2021-08-30 01:28:00 +0530
 background: '/img/pushing-to-github-from-Travis-CI/02-backdrop.jpg'
 ---
 

@@ -4,9 +4,11 @@ comments: true
 title:  "The Silent Patient by Alex Michaelides"
 subtitle: "Book Review and Summary"
 categories: [literature]
-date:   2021-09-05 00:00:00 +0530
+date:   2021-10-05 00:00:00 +0530
 background: '/img/posts/the-silent-patient.jpg'
 ---
+
+# Review
 
 The Silent patient is a psychological thriller and should I say what a thriller it is.
 Besides, this was the first psychological thriller novel that I have read in my life
@@ -20,6 +22,9 @@ perspective but with events happening in two different timelines. The writer has
 successfully managed to not let the reader realize this until the very end. Overall,
 reading this book has been quite a new and thrilling experience for me and would
 recommend it to any adult who likes reading psychological thrillers.
+
+
+# Summary
 
 The book revolves around a talented painter Alicia who has been charged with murdering
 her husband Gabriel in cold blood by shooting him 5 times in his face. She does not try
@@ -80,3 +85,29 @@ take this and brutally murders her husband and the rest is history.
 A few years later the chief inspector visits Theo’s house with Alicia’s diary. 
 Upon seeing this Theo understands that he has come to arrest him and complies without 
 any struggle.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://amanabt.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
+
