@@ -4,7 +4,7 @@ comments: true
 title:  "Workplace Incivility"
 subtitle: ""
 author: "Tanyee Kadambari"
-categories: []
+categories: [management, Organizational Behaviour]
 date:   2022-08-15 00:00:00 +0530
 background: '/img/posts/workplace_incivility.png'
 ---
