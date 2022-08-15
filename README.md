@@ -6,3 +6,10 @@
 A simple and clean [Jekyll](https://jekyllrb.com/) blog
 
 Powered by [![startbootstrap-clean-blog-jekyll]()](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
+
+## Setup
+
+- Setup `rbenv` and install `ruby-2.7`
+- Set ruby-2.7 as the global ruby interpreter using `rbenv global 2.7` command
+- From inside the project root directory run `bundle install` followed by `./bin/cibuild`
+- To locally serve the website run `bundle exec jekyll serve`
