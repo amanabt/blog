@@ -24,9 +24,11 @@ layout: default
              <span class="meta">
               Categories:
               {% for category in page.categories %}
+	      	  |
                   <a href="{{ category | prepend: "/" | relative_url }}">
                       {{ category | capitalize }}
                   </a>
+		  |
               {% endfor %}
              </span>
             {% if page.credits %}
